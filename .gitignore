@@ -1,0 +1,7 @@
+Docker/
+data
+data-20220924T132016Z-001.zip
+notebooks-20220924T132032Z-001.zip
+.ipynb_checkpoints/
+.ipynb_checkpoints/Dashboard-checkpoint.ipynb
+.ipynb_checkpoints/datacraft_danone-checkpoint.ipynb
